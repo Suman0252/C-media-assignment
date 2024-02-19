@@ -1,0 +1,1 @@
+//_FLOAT and FLOAT can be considered as variables.
